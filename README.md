@@ -6,6 +6,10 @@ Este proyecto te permite organizar fácilmente un sorteo de amigo secreto, agreg
 
 ---
 
+# 🔗 Prueba el sorteo aquí mismo
+# 👉 http://127.0.0.1:5500/challenge-amigo-secreto_esp-main/index.html
+
+
 ## Características  
 
 ✅ **Agregar Amigos** a la lista con validaciones.  
